@@ -1,0 +1,30 @@
+.env
+**/.env
+php_errors.log
+**/php_errors.log
+codigo/public/index_respaldo.php
+codigo/public/diagnostico.php
+
+# Secretos y entorno
+codigo/.env
+.env
+*.local
+
+# PyCharm / IDE
+.idea/
+*.iml
+.vscode/
+
+# PHP / dependencias
+/vendor/
+.phpunit.cache/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs y temporales
+*.log
+*.tmp
+*.cache
